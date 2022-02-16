@@ -45,5 +45,5 @@ Learnt how to use google fonts and create that link in the html:
 
 ### Continued development
 
-I would still like to add media queries and work on accessibility. I will probably submit a second version with sizes more in line with the design.
+I would still like work on accessibility and getting the sizing right. In my second uploaded version, I tried to get the sizing a bit closer to the design.
 
